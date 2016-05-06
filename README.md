@@ -1,7 +1,4 @@
 # Data Visualization
-# Last Edited: 05/05/16
-# Author: Adam Carlson
-# Main Program: display.py
 
 I created this Python program in order to read in csv files of data and perform interesting analyses in a 3-D environment. Run display.py with Python27 or higher in order to view the main the program (iOS Terminal: python27 display.py or python display.py depending on your setup). Ensure that you have numpy installed as welled. In the "pictures" folder, you can see pictures of the program running. 
 
